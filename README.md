@@ -1,19 +1,29 @@
-### Hi there 👋
+<h3 align="center">
+     <br>Welcome to my GitHub!
+</h3>
 
-<!--
-**ersinisgor/ersinisgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+     Hello, I am <a target="_blank" href="#">Ersin</a>
+     </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" />  
+</h1>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
+</p>
+
+<iframe align="right" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+- 💻 I’m currently working on **Kodluyoruz-Bootcamp**
+- 📌 I’m currently learning **JavaScript**
+- 👀 I’m interested in **Full Stack Web Development**
+
+- 💪 Short-term goals: Learning **React**
+- 🤝🏼 I’m looking to collaborate on **Frontend Developer**
+- 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ersin-isgor/)
+
+
