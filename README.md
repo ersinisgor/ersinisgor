@@ -15,10 +15,8 @@
 </p>
 
 <a target="_blank">
-  <img align="right" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+  <img align="right" height="200" width="400"   alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </a>
-
-<!-- <iframe align="right" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
 
 - 💻 I’m currently working on **Kodluyoruz-Bootcamp**
 - 📌 I’m currently learning **JavaScript**
