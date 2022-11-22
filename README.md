@@ -26,14 +26,36 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://codepen.io/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ersinisgor" height="30" width="40" /></a>
-<a href="https://twitter.com/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ersinisgor" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ersin-isgor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ersin-isgor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18836001/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ersinisgor" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ersin_isgor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ersin_isgor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ersinisgor" height="30" width="40" /></a>
-<a href="https://discord.gg/ersinisgor#0867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ersinisgor#0867" height="30" width="40" /></a>
+<p align="left"><a href="https://codepen.io/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ersinisgor" height="24px" width="24px" /></a>
+<a href="https://twitter.com/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ersinisgor" height="24px" width="24px" /></a>
+<a href="https://www.linkedin.com/in/ersin-isgor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ersin-isgor" height="24px" width="24px" /></a>
+<a href="https://stackoverflow.com/users/18836001/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ersinisgor" height="24px" width="24px" /></a>
+<a href="https://www.instagram.com/ersin_isgor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ersin_isgor" height="24px" width="24px" /></a>
+<a href="https://www.hackerrank.com/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ersinisgor" height="24px" width="24px" /></a>
+<a href="https://discord.gg/ersinisgor#0867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ersinisgor#0867" height="28px" width="28px" /></a>
 </p>
+<hr>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/xqDYyVeWStvcp5rhJG/giphy.gif" width="30px" >
+  Tech Stack and Tools
+  <img src="https://media.giphy.com/media/xqDYyVeWStvcp5rhJG/giphy.gif" width="30px" >
+</h2>
+<p align="center">
+<code><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</code>
+<code><img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35px" /></code>
+<code><img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img alt="nodejs" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+<code><img alt="express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /></code>
+<code><img alt="mongodb" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></code>
+<code><img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+<code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+<code><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+</p>
+<hr>
 
 
 
