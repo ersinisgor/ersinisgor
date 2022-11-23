@@ -11,9 +11,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
-<a target="_blank">
-  <img align="right" height="180" width="280" src="https://www.pexels.com/photo/person-encoding-in-laptop-574071/">
-</a>
 
 - 💻 I’m currently working on **Kodluyoruz-Bootcamp**<br>
 - 📌 I’m currently learning **JavaScript**<br>
