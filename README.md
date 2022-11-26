@@ -17,7 +17,7 @@
 - 👀 I’m interested in **Full Stack Web Development**<br>
 
 - 💪 Short-term goals: Learning **React**<br>
-- 🤝🏼 I’m looking to collaborate on **Frontend Developer**<br>
+- 🤝🏼 I’m looking to collaborate on **Full Stack Development**<br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
 
 
