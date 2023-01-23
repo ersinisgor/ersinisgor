@@ -7,7 +7,6 @@
      </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" />  
 </h1>
 
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
@@ -19,7 +18,6 @@
 - 💪 Short-term goals: Learning **React**<br>
 - 🤝🏼 I’m looking to collaborate on **Full Stack Development**<br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
-
 
 <h3 align="center">
   Connect with me:
@@ -54,10 +52,14 @@
 <code><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 </p>
 <hr>
-<h2 align="center">
-  <img src="https://media.giphy.com/media/2zeiYrwEPsOqTszYQm/giphy.gif" width="25px" >
-  GitHub Stats:
-</h2>
+
+<details align=center>
+  <summary>
+    <h2 style="display: inline-block;">
+      <img src="https://media.giphy.com/media/2zeiYrwEPsOqTszYQm/giphy.gif" width="25px" >
+      GitHub Stats:
+    </h2>
+  </summary>
 
 <div align=center>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=ersinisgor&theme=algolia&hide_border=true" title="Open in new tab">
@@ -73,8 +75,4 @@
     <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersinisgor&theme=algolia&langs_count=8&layout=compact&hide_border=true" />
   </a>
 </div>
-
-
-
-
-
+</details>
