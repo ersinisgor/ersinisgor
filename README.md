@@ -12,7 +12,7 @@
 </p>
 
 - 💻 I’m currently working on **Kodluyoruz-Bootcamp**<br>
-- 📌 I’m currently learning **JavaScript**<br>
+- 📌 I’m currently learning **OOP**<br>
 - 👀 I’m interested in **Full Stack Web Development**<br>
 
 - 💪 Short-term goals: Learning **React**<br>
