@@ -11,11 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-- 💻 I’m currently working on **Kodluyoruz-Bootcamp**<br>
-- 📌 I’m currently learning **OOP**<br>
+- 💻 I’m a Bootcamp Student on **Siliconmade Academy**<br>
+- 📌 I’m currently learning **C#**<br>
 - 👀 I’m interested in **Full Stack Web Development**<br>
 
-- 💪 Short-term goals: Learning **React**<br>
+- 💪 Short-term goals: Learning **.NET** and **React**<br>
 - 🤝🏼 I’m looking to collaborate on **Full Stack Development**<br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
 
