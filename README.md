@@ -4,18 +4,18 @@
 
 <h1 align="center">
      Hello, I am <a target="_blank" href="#">Ersin</a>
-     </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" />  
+     </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" />
 </h1>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-- 💻 I’m a Bootcamp Student on **Siliconmade Academy**<br>
-- 📌 I’m currently learning **C#**<br>
+- 💻 I’m currently working on **Siliconmade Academy**<br>
+- 📌 I’m currently learning **.NET**<br>
 - 👀 I’m interested in **Full Stack Web Development**<br>
 
-- 💪 Short-term goals: Learning **.NET** and **React**<br>
+- 💪 Short-term goals: Learning **TypeScript** and **React**<br>
 - 🤝🏼 I’m looking to collaborate on **Full Stack Development**<br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
 
