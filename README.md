@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-- 💻 I’m Bootcamp Student on **Siliconmade Academy**<br>
+- 💻 I’m a Bootcamp Student on **Siliconmade Academy**<br>
 - 📌 I’m currently learning **React** and **TypeScript**<br>
 - 👀 I’m interested in **Full Stack Web Development**<br>
 
