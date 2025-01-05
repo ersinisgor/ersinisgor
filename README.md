@@ -110,6 +110,7 @@
       />
       <br /><strong style="font-size: 12px;">Python</strong>
     </td>
+    <td align="center" height="74" width="108"></td>
   </tr>
   <tr>
     <td colspan="8">
@@ -223,6 +224,11 @@
       />
       <br /><strong style="font-size: 12px;">MsSQL</strong>
     </td>
+    <td align="center" height="74" width="108"></td>
+    <td align="center" height="74" width="108"></td>
+    <td align="center" height="74" width="108"></td>
+    <td align="center" height="74" width="108"></td>
+    <td align="center" height="74" width="108"></td>
   </tr>
   <tr>
     <td colspan="8">
@@ -293,6 +299,7 @@
       />
       <br /><strong style="font-size: 12px;">Visual Studio</strong>
     </td>
+    <td align="center" height="74" width="108"></td>
   </tr>
 </table>
 
