@@ -38,14 +38,9 @@
     Tech Stack
   <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" >
 </h2>
+
+<h3 style="color: #2a9d8f">Languages:</h3>
 <table>
-  <tr>
-  </tr>
-  <tr>
-    <td colspan="8" >
-      <h3 style="color: #2a9d8f">Languages:</h3>
-    </td>
-  </tr>
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -110,13 +105,11 @@
       />
       <br /><strong style="font-size: 12px;">Python</strong>
     </td>
-    <td align="center" height="108" width="108"></td>
   </tr>
-  <tr>
-    <td colspan="8">
-      <h3 style="color: #2a9d8f">Frameworks & Libraries:</h3>
-    </td>
-  </tr>
+</table>
+
+<h3 style="color: #2a9d8f">Frameworks & Libraries:</h3>
+<table>
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -191,11 +184,10 @@
       <br /><strong style="font-size: 12px;">.NET</strong>
     </td>
   </tr>
-  <tr>
-    <td colspan="8">
-      <h3 style="color: #2a9d8f">Databases:</h3>
-    </td>
-  </tr>
+</table>
+
+<h3 style="color: #2a9d8f">Databases:</h3>
+<table>
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -224,17 +216,11 @@
       />
       <br /><strong style="font-size: 12px;">MsSQL</strong>
     </td>
-    <td align="center" height="108" width="108"></td>
-    <td align="center" height="108" width="108"></td>
-    <td align="center" height="108" width="108"></td>
-    <td align="center" height="108" width="108"></td>
-    <td align="center" height="108" width="108"></td>
   </tr>
-  <tr>
-    <td colspan="8">
-      <h3 style="color: #2a9d8f">Tools & Technologies:</h3>
-    </td>
-  </tr>
+</table>
+
+<h3 style="color: #2a9d8f">Tools & Technologies:</h3>
+<table>
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -299,7 +285,6 @@
       />
       <br /><strong style="font-size: 12px;">Visual Studio</strong>
     </td>
-    <td align="center" height="108" width="108"></td>
   </tr>
 </table>
 
