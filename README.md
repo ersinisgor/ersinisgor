@@ -11,7 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-- 💻 I am an alumni of the **[Siliconmade Academy](https://www.siliconmadeacademy.com/)** <br>
+<!-- - 💻 I am an alumni of the **[Siliconmade Academy](https://www.siliconmadeacademy.com/)** <br> -->
+
+- 💻 I am an alumni of the **<a href="https://www.siliconmadeacademy.com/" target="_blank" rel="noopener noreferrer" style="color: white; text-decoration: none;">Siliconmade Academy</a>** <br>
 - 📌 I’m currently learning **NextJs**
 - 💪 Short-term goals: Learning **Nest** <br>
 - 🤝🏼 I'm open to collaborating on interesting MERN projects <br>
@@ -33,10 +35,266 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" >
-  Tech Stacks
+    Tech Stack
   <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" >
 </h2>
-<p align="center">
+<table>
+  <tr>
+    <td colspan="8" >
+      <h3 style="color: #2a9d8f">Languages:</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="32"
+        height="32"
+        alt="JavaScript"
+      />
+      <br/><strong style="font-size: 12px;">JavaScript</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="32"
+        height="32"
+        alt="TypeScript"
+      />
+      <br/><strong style="font-size: 12px;">TypeScript</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="32"
+        height="32"
+        alt="Node.js"
+      />
+      <br/><strong style="font-size: 12px;">Node.js</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="32"
+        height="32"
+        alt="HTML5"
+      />
+      <br/><strong style="font-size: 12px;">HTML5</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="32"
+        height="32"
+        alt="CSS3"
+      />
+      <br/><strong style="font-size: 12px;">CSS3</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        width="32"
+        height="32"
+        alt="C#"
+      />
+      <br/><strong style="font-size: 12px;">C#</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="32"
+        height="32"
+        alt="Python"
+      />
+      <br /><strong style="font-size: 12px;">Python</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      <h3 style="color: #2a9d8f">Frameworks & Libraries:</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="32"
+        height="32"
+        alt="Next.js"
+      />
+      <br/><strong style="font-size: 12px;">Next.js</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="32"
+        height="32"
+        alt="Express.js"
+      />
+      <br/><strong style="font-size: 12px;">Express.js</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="32"
+        height="32"
+        alt="React.js"
+      />
+      <br/><strong style="font-size: 12px;">React.js</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="32"
+        height="32"
+        alt="React Native"
+      />
+      <br/><strong style="font-size: 12px;">React Native</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=000000"
+        width="32"
+        height="32"
+        alt="Expo"
+      />
+      <br /><strong style="font-size: 12px;">Expo</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        width="32"
+        height="32"
+        alt="Tailwind CSS"
+      />
+      <br/><strong style="font-size: 12px;">TailwindCss</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+        width="32"
+        height="32"
+        alt="Bootstrap"
+      />
+      <br/><strong style="font-size: 12px;">Bootstrap</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
+        width="32"
+        height="32"
+        alt=".NET"
+      />
+      <br /><strong style="font-size: 12px;">.NET</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      <h3 style="color: #2a9d8f">Databases:</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="32"
+        height="32"
+        alt="MongoDB"
+      />
+      <br /><strong style="font-size: 12px;">MongoDB</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="32"
+        height="32"
+        alt="Firebase"
+      />
+      <br /><strong style="font-size: 12px;">Firebase</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+        width="32"
+        height="32"
+        alt="MsSQL"
+      />
+      <br /><strong style="font-size: 12px;">MsSQL</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      <h3 style="color: #2a9d8f">Tools & Technologies:</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+        width="32"
+        height="32"
+        alt="Figma"
+      />
+      <br /><strong style="font-size: 12px;">Figma</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="32"
+        height="32"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+        width="32"
+        height="32"
+        alt="GitHub"
+      />
+      <br /><strong style="font-size: 12px;">GitHub</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+        width="32"
+        height="32"
+        alt="Postman"
+      />
+      <br /><strong style="font-size: 12px;">Postman</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"
+        width="32"
+        height="32"
+        alt="Swagger"
+      />
+      <br /><strong style="font-size: 12px;">Swagger</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="32"
+        height="32"
+        alt="Visual Studio Code"
+      />
+      <br /><strong style="font-size: 12px;">VS Code</strong>
+    </td>
+    <td align="center" height="74" width="74">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+        width="32"
+        height="32"
+        alt="Visual Studio"
+      />
+      <br /><strong style="font-size: 12px;">Visual Studio</strong>
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="center">
 <code><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </code>
 <code><img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
@@ -52,11 +310,9 @@
 <code><img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 <code><img alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
-
-<!-- <code><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code> -->
-
+<code><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 </p>
-<hr>
+<hr> -->
 
 <details align=center>
   <summary>
