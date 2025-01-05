@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="32"
@@ -56,7 +56,7 @@
       />
       <br/><strong style="font-size: 12px;">JavaScript</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="32"
@@ -65,7 +65,7 @@
       />
       <br/><strong style="font-size: 12px;">TypeScript</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="32"
@@ -74,7 +74,7 @@
       />
       <br/><strong style="font-size: 12px;">Node.js</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="32"
@@ -83,7 +83,7 @@
       />
       <br/><strong style="font-size: 12px;">HTML5</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="32"
@@ -92,7 +92,7 @@
       />
       <br/><strong style="font-size: 12px;">CSS3</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
         width="32"
@@ -101,7 +101,7 @@
       />
       <br/><strong style="font-size: 12px;">C#</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="32"
@@ -110,7 +110,7 @@
       />
       <br /><strong style="font-size: 12px;">Python</strong>
     </td>
-    <td align="center" height="74" width="108"></td>
+    <td align="center" height="108" width="108"></td>
   </tr>
   <tr>
     <td colspan="8">
@@ -118,7 +118,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="32"
@@ -127,7 +127,7 @@
       />
       <br/><strong style="font-size: 12px;">Next.js</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="32"
@@ -136,7 +136,7 @@
       />
       <br/><strong style="font-size: 12px;">Express.js</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="32"
@@ -145,7 +145,7 @@
       />
       <br/><strong style="font-size: 12px;">React.js</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="32"
@@ -154,7 +154,7 @@
       />
       <br/><strong style="font-size: 12px;">React Native</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=000000"
         width="32"
@@ -163,7 +163,7 @@
       />
       <br /><strong style="font-size: 12px;">Expo</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
         width="32"
@@ -172,7 +172,7 @@
       />
       <br/><strong style="font-size: 12px;">TailwindCss</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
         width="32"
@@ -181,7 +181,7 @@
       />
       <br/><strong style="font-size: 12px;">Bootstrap</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
         width="32"
@@ -197,7 +197,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="32"
@@ -206,7 +206,7 @@
       />
       <br /><strong style="font-size: 12px;">MongoDB</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
         width="32"
@@ -215,7 +215,7 @@
       />
       <br /><strong style="font-size: 12px;">Firebase</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
         width="32"
@@ -224,11 +224,11 @@
       />
       <br /><strong style="font-size: 12px;">MsSQL</strong>
     </td>
-    <td align="center" height="74" width="108"></td>
-    <td align="center" height="74" width="108"></td>
-    <td align="center" height="74" width="108"></td>
-    <td align="center" height="74" width="108"></td>
-    <td align="center" height="74" width="108"></td>
+    <td align="center" height="108" width="108"></td>
+    <td align="center" height="108" width="108"></td>
+    <td align="center" height="108" width="108"></td>
+    <td align="center" height="108" width="108"></td>
+    <td align="center" height="108" width="108"></td>
   </tr>
   <tr>
     <td colspan="8">
@@ -236,7 +236,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
         width="32"
@@ -245,7 +245,7 @@
       />
       <br /><strong style="font-size: 12px;">Figma</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="32"
@@ -254,7 +254,7 @@
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
         width="32"
@@ -263,7 +263,7 @@
       />
       <br /><strong style="font-size: 12px;">GitHub</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
         width="32"
@@ -272,7 +272,7 @@
       />
       <br /><strong style="font-size: 12px;">Postman</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"
         width="32"
@@ -281,7 +281,7 @@
       />
       <br /><strong style="font-size: 12px;">Swagger</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="32"
@@ -290,7 +290,7 @@
       />
       <br /><strong style="font-size: 12px;">VS Code</strong>
     </td>
-    <td align="center" height="74" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
         width="32"
@@ -299,29 +299,9 @@
       />
       <br /><strong style="font-size: 12px;">Visual Studio</strong>
     </td>
-    <td align="center" height="74" width="108"></td>
+    <td align="center" height="108" width="108"></td>
   </tr>
 </table>
-
-<!-- <p align="center">
-<code><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</code>
-<code><img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img alt="Sass" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></code>
-<code><img alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></code>
-<code><img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img alt="CSharp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
-<code><img alt="dotnet" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" /></code>
-<code><img alt="sql" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></code>
-<code><img alt="nodejs" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /></code>
-<code><img alt="mongodb" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></code>
-<code><img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-<code><img alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></code>
-<code><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-</p>
-<hr> -->
 
 <details align=center>
   <summary>
