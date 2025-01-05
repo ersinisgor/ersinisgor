@@ -11,30 +11,29 @@
   <img src="https://komarev.com/ghpvc/?username=ersinisgor&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-- 💻 I’m a Bootcamp Student on **Siliconmade Academy**<br>
-- 📌 I’m currently learning **React** and **TypeScript**<br>
-- 👀 I’m interested in **Full Stack Web Development**<br>
-
-- 💪 Short-term goals: Learning **NextJs** <br>
-- 🤝🏼 I’m looking to collaborate on **Full Stack Development**<br>
+- 💻 I am an alumni of the **[Siliconmade Academy](https://www.siliconmadeacademy.com/)** <br>
+- 📌 I’m currently learning **NextJs**
+- 💪 Short-term goals: Learning **Nest** <br>
+- 🤝🏼 I'm open to collaborating on interesting MERN projects <br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
 
 <h3 align="center">
+    Check out my portfolio ⮕ <a href="https://ersinisgor.netlify.app/">ersinisgor.netlify.app</a>
+</h3>
+
+<h3 align="left">
   Connect with me:
 </h3>
-<p align="center"><a href="https://codepen.io/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ersinisgor" height="24px" width="24px" /></a>
-<a href="https://twitter.com/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ersinisgor" height="24px" width="24px" /></a>
-<a href="https://www.linkedin.com/in/ersin-isgor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ersin-isgor" height="24px" width="24px" /></a>
-<a href="https://stackoverflow.com/users/18836001/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ersinisgor" height="24px" width="24px" /></a>
-<a href="https://www.instagram.com/ersin_isgor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ersin_isgor" height="24px" width="24px" /></a>
-<a href="https://www.hackerrank.com/ersinisgor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ersinisgor" height="24px" width="24px" /></a>
-<a href="https://discord.gg/ersinisgor#0867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ersinisgor#0867" height="28px" width="28px" /></a>
-</p>
-<hr>
+
+<div align="left">
+<a href="https://www.linkedin.com/in/ersin-isgor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://twitter.com/ersinisgor"><img alt="X logo 2023 (white)" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" height=25></a>
+<a href="https://discord.gg/ersinisgor#0867"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" >
-  Tech Stack and Tools
+  Tech Stacks
   <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" >
 </h2>
 <p align="center">
