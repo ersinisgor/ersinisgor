@@ -34,9 +34,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" >
+  <!-- <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" > -->
     Tech Stack
-  <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" >
+  <!-- <img src="https://media.giphy.com/media/pXo0B7colvXr0sTKxw/giphy.gif" width="20px" > -->
 </h2>
 
 <h3 style="color: #2a9d8f">Languages:</h3>
@@ -315,6 +315,7 @@
 <details align=center>
   <summary>
     <h2 style="display: inline-block;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN3YjNiOXJycHhudW94Y25qYTJ2MnhnYnI2cDhldXFjaGc0dGIwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiPkSK2MJCrZMEqd62/giphy.gif" width="20px">
       Projects List:
     </h2>
   </summary>
