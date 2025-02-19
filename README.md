@@ -219,7 +219,7 @@
   </tr>
 </table>
 
-<h3 align="center" style="color: #2a9d8f">Tools & Technologies:</h3>
+<h3 style="color: #2a9d8f">Tools & Technologies:</h3>
 <table>
   <tr>
     <td align="center" height="108" width="108">
