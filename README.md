@@ -324,55 +324,129 @@
     <thead>
       <tr>
         <th scope="col">Repository</th>
+        <th scope="col">Type</th>
         <th scope="col">Technologies and tools</th>
         <th scope="col">Demo</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/food_ordering_MERN" target="_blank">Food Ordering App MERN</a></th>
-        <td>TypeScript, React, Node.js, MongoDB, Express.js, Auth0, Stripe, Cloudinary, Shadcn-ui</td>
-        <td align="center"><a href="https://food-ordering-mern-frontend-no3q.onrender.com/" target="_blank">Live</a></td>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/Mini-microservice-Blog-project" target="_blank">Nest.js Library Management</a>
+        </th>
+        <td>Backend</td>
+        <td>Nest.js, TypeScript, TypeORM, PostreSQL, JWT, Swagger</td>
+        <td align="center">-</td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/Mobile_Hotel_Booking_App" target="_blank">Mobile Hotel Booking App</a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/Mini-microservice-Blog-project" target="_blank">Mini Microservices Blog Project</a>
+        </th>
+        <td>Backend</td>
+        <td>JavaSpring, Node.js, React</td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/microservices-patient-management" target="_blank">Microservices Patient Management</a>
+        </th>
+        <td>Backend</td>
+        <td>Java, Spring Boot, PostreSQL, Kafka, gRPC, API Gateway, Docker, AWS</td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/booking_app_MERN" target="_blank">Hotel Booking App MERN</a>
+        </th>
+        <td>Full Stack</td>
+        <td>TypeScript, React, Node.js, MongoDB, Express.js, Tailwind CSS, JWT, Stripe, Cloudinary, Playwright</td>
+        <td align="center">
+          <a href="booking-app-mern-jlbe.onrender.com" target="_blank">Live</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/food_ordering_MERN" target="_blank">Food Ordering App MERN</a>
+        </th>
+        <td>Full Stack</td>
+        <td>TypeScript, React, Node.js, MongoDB, Express.js, Auth0, Stripe, Cloudinary, Shadcn-ui</td>
+        <td align="center">
+          <a href="https://food-ordering-mern-frontend-no3q.onrender.com/" target="_blank">Live</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/Mobile_Hotel_Booking_App" target="_blank">Mobile Hotel Booking App</a>
+        </th>
+        <td>Mobile App</td>
         <td>React Native, React Navigation, Redux, Firebase, AsyncStorage</td>
         <td align="center">-</td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/Mobile-Ecommerce-Category-App" target="_blank">Mobile Ecom. Category App</a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/Mobile-Ecommerce-Category-App" target="_blank">Mobile Ecom. Category App</a>
+        </th>
+        <td>Mobile App</td>
         <td>React Native, Expo, React Navigation, AsyncStorage, TypeScript</td>
         <td align="center">-</td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/portfolio-nextjs" target="_blank">Portfolio</a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/portfolio-nextjs" target="_blank">Portfolio</a>
+        </th>
+        <td>Frontend</td>
         <td>NextJs, Tailwind, Shadcn-ui, Magic-ui, Aceternity-ui</td>
-        <td align="center"><a href="https://ersinisgor.netlify.app/" target="_blank">Live</a></td>
+        <td align="center">
+          <a href="https://ersinisgor.netlify.app/" target="_blank">Live</a>
+        </td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/movie_app_MERN" target="_blank">Movie App MERN</a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/movie_app_MERN" target="_blank">Movie App MERN</a>
+        </th>
+        <td>Full Stack</td>
         <td>MongoDB, Express.js, Node.js, React, Router, Axios, Lucide React, Zustand, React Player, Tailwind, React Hot Toast</td>
-        <td align="center"><a href="https://movie-app-mern-72td.onrender.com/" target="_blank">Live</a></td>
+        <td align="center">
+          <a href="https://movie-app-mern-72td.onrender.com/" target="_blank">Live</a>
+        </td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/ApiHotelProject" target="_blank">Api Hotel Project</a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/ApiHotelProject" target="_blank">Api Hotel Project</a>
+        </th>
+        <td>Full Stack</td>
         <td>C#, MsSQL, RapidAPI, Swagger, AutoMapper, .NET MVC, JWT, Bootstrap</td>
         <td align="center">-</td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/quiz-app" target="_blank">Quiz App</a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/quiz-app" target="_blank">Quiz App</a>
+        </th>
+        <td>Frontend</td>
         <td>HTML, CSS, Javascript, Bootstrap</td>
-        <td align="center"><a href="https://quiz-app-er.netlify.app/" target="_blank">Live</a></td>
+        <td align="center">
+          <a href="https://quiz-app-er.netlify.app/" target="_blank">Live</a>
+        </td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/theOdinProject/tree/main/08-Tic-Tac-Toe" target="_blank">Tic Tac Toe </a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/theOdinProject/tree/main/08-Tic-Tac-Toe" target="_blank">Tic Tac Toe </a>
+        </th>
+        <td>Frontend</td>
         <td>HTML, CSS, Javascript</td>
-        <td align="center"><a href="https://tictactoe-game-er.netlify.app/" target="_blank">Live</a></td>
+        <td align="center">
+          <a href="https://tictactoe-game-er.netlify.app/" target="_blank">Live</a>
+        </td>
       </tr>
       <tr>
-        <th scope="row"><a href="https://github.com/ersinisgor/complete-javascript-course/tree/main/07-Pig-Game/current" target="_blank">Pig Game</a></th>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/complete-javascript-course/tree/main/07-Pig-Game/current" target="_blank">Pig Game</a>
+        </th>
+        <td>Frontend</td>
         <td>HTML, CSS, Javascript</td>
-        <td align="center"><a href="https://pig-game-er.netlify.app/" target="_blank">Live</a></td>
+        <td align="center">
+          <a href="https://pig-game-er.netlify.app/" target="_blank">Live</a>
+        </td>
       </tr>
     </tbody>
   </table>
