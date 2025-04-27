@@ -343,7 +343,7 @@
           <a href="https://github.com/ersinisgor/Mini-microservice-Blog-project" target="_blank">Mini Microservices Blog Project</a>
         </th>
         <td>Backend</td>
-        <td>JavaSpring, Node.js, React</td>
+        <td>JavaScript, Node.js, React</td>
         <td align="center">-</td>
       </tr>
       <tr>
