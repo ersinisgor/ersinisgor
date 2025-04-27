@@ -423,7 +423,7 @@
           <a href="https://github.com/ersinisgor/quiz-app" target="_blank">Quiz App</a>
         </th>
         <td>Frontend</td>
-        <td>HTML, CSS, Javascript, Bootstrap</td>
+        <td>HTML, CSS, JavaScript, Bootstrap</td>
         <td align="center">
           <a href="https://quiz-app-er.netlify.app/" target="_blank">Live</a>
         </td>
@@ -433,7 +433,7 @@
           <a href="https://github.com/ersinisgor/theOdinProject/tree/main/08-Tic-Tac-Toe" target="_blank">Tic Tac Toe </a>
         </th>
         <td>Frontend</td>
-        <td>HTML, CSS, Javascript</td>
+        <td>HTML, CSS, JavaScript</td>
         <td align="center">
           <a href="https://tictactoe-game-er.netlify.app/" target="_blank">Live</a>
         </td>
@@ -443,7 +443,7 @@
           <a href="https://github.com/ersinisgor/complete-javascript-course/tree/main/07-Pig-Game/current" target="_blank">Pig Game</a>
         </th>
         <td>Frontend</td>
-        <td>HTML, CSS, Javascript</td>
+        <td>HTML, CSS, JavaScript</td>
         <td align="center">
           <a href="https://pig-game-er.netlify.app/" target="_blank">Live</a>
         </td>
