@@ -14,8 +14,8 @@
 <!-- - 💻 I am an alumni of the **[Siliconmade Academy](https://www.siliconmadeacademy.com/)** <br> -->
 
 - 💻 I am an alumni of the **<a href="https://www.siliconmadeacademy.com/" target="_blank" rel="noopener noreferrer" style="color: white; text-decoration: none;">Siliconmade Academy</a>** <br>
-- 📌 I’m currently learning **NextJs**
-- 💪 Short-term goals: Learning **Nest** <br>
+- 📌 I’m currently learning **Nest.js**
+<!-- - 💪 Short-term goals: Learning **Nest** <br> -->
 - 🤝🏼 I'm open to collaborating on interesting MERN projects <br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
 
@@ -332,7 +332,15 @@
     <tbody>
       <tr>
         <th scope="row">
-          <a href="https://github.com/ersinisgor/Mini-microservice-Blog-project" target="_blank">Nest.js Library Management</a>
+          <a href="https://github.com/ersinisgor/Product-Manager-Mini-API" target="_blank">.NET Product Manager Mini API</a>
+        </th>
+        <td>Backend</td>
+        <td>C#, .NET 8, Swagger</td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/Nest.js-Library-Management-System" target="_blank">Nest.js Library Management</a>
         </th>
         <td>Backend</td>
         <td>Nest.js, TypeScript, TypeORM, PostreSQL, JWT, Swagger</td>
