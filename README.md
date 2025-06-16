@@ -16,7 +16,7 @@
 - 💻 I am an alumni of the **<a href="https://www.siliconmadeacademy.com/" target="_blank" rel="noopener noreferrer" style="color: white; text-decoration: none;">Siliconmade Academy</a>** <br>
 - 📌 I’m currently learning **Nest.js**
 <!-- - 💪 Short-term goals: Learning **Nest** <br> -->
-- 🤝🏼 I'm open to collaborating on interesting MERN projects <br>
+- 🤝🏼 I'm open to collaborating on interesting Backend of Full-Stack projects <br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
 
 <h3 align="center">
@@ -71,6 +71,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        width="32"
+        height="32"
+        alt="C#"
+      />
+      <br/><strong style="font-size: 12px;">C#</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="32"
         height="32"
@@ -88,22 +97,13 @@
       <br/><strong style="font-size: 12px;">CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-        width="32"
-        height="32"
-        alt="C#"
-      />
-      <br/><strong style="font-size: 12px;">C#</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
+      <!-- <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="32"
         height="32"
         alt="Python"
       />
-      <br /><strong style="font-size: 12px;">Python</strong>
+      <br /><strong style="font-size: 12px;">Python</strong> -->
     </td>
   </tr>
 </table>
@@ -128,6 +128,15 @@
         alt="Express.js"
       />
       <br/><strong style="font-size: 12px;">Express.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+        width="32"
+        height="32"
+        alt="Nest.js"
+      />
+      <br/><strong style="font-size: 12px;">Nest.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -215,6 +224,15 @@
         alt="MsSQL"
       />
       <br /><strong style="font-size: 12px;">MsSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+        width="32"
+        height="32"
+        alt="PostgreSQL"
+      />
+      <br /><strong style="font-size: 12px;">PostgreSQL</strong>
     </td>
   </tr>
 </table>
@@ -330,6 +348,22 @@
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/CloudFileStorage_Microservices" target="_blank">.NET Cloud File Storage Microservices</a>
+        </th>
+        <td>Backend</td>
+        <td>C#, .NET 8, Swagger, SQLite, PostgreSQL, MediatR, YARP, Serilog, FluentValidation, AutoMapper, Bootstrap, EF Core, </td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/BookCatalog_AspNET" target="_blank">.NET Book Catalog MVC App</a>
+        </th>
+        <td>Backend</td>
+        <td>C#, .NET 8, Swagger, SQLite, Serilog, FluentValidation, AutoMapper, Bootstrap, EF Core</td>
+        <td align="center">-</td>
+      </tr>
       <tr>
         <th scope="row">
           <a href="https://github.com/ersinisgor/Product-Manager-Mini-API" target="_blank">.NET Product Manager Mini API</a>
