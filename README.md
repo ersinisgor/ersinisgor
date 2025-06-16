@@ -16,7 +16,7 @@
 - 💻 I am an alumni of the **<a href="https://www.siliconmadeacademy.com/" target="_blank" rel="noopener noreferrer" style="color: white; text-decoration: none;">Siliconmade Academy</a>** <br>
 - 📌 I’m currently learning **Nest.js**
 <!-- - 💪 Short-term goals: Learning **Nest** <br> -->
-- 🤝🏼 I'm open to collaborating on interesting Backend of Full-Stack projects <br>
+- 🤝🏼 I'm open to collaborating on interesting Backend or Full-Stack projects <br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
 
 <h3 align="center">
@@ -96,15 +96,15 @@
       />
       <br/><strong style="font-size: 12px;">CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <!-- <img
+    <!-- <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="32"
         height="32"
         alt="Python"
       />
-      <br /><strong style="font-size: 12px;">Python</strong> -->
-    </td>
+      <br /><strong style="font-size: 12px;">Python</strong>
+    </td> -->
   </tr>
 </table>
 
