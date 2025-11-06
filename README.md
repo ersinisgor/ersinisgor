@@ -78,7 +78,7 @@
       />
       <br/><strong style="font-size: 12px;">C#</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="32"
@@ -95,7 +95,7 @@
         alt="CSS3"
       />
       <br/><strong style="font-size: 12px;">CSS3</strong>
-    </td>
+    </td> -->
     <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -113,12 +113,21 @@
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
         width="32"
         height="32"
-        alt="Next.js"
+        alt="Nest.js"
       />
-      <br/><strong style="font-size: 12px;">Next.js</strong>
+      <br/><strong style="font-size: 12px;">Nest.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
+        width="32"
+        height="32"
+        alt=".NET"
+      />
+      <br /><strong style="font-size: 12px;">.NET</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -131,15 +140,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
-        width="32"
-        height="32"
-        alt="Nest.js"
-      />
-      <br/><strong style="font-size: 12px;">Nest.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="32"
         height="32"
@@ -148,6 +148,15 @@
       <br/><strong style="font-size: 12px;">React.js</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="32"
+        height="32"
+        alt="Next.js"
+      />
+      <br/><strong style="font-size: 12px;">Next.js</strong>
+    </td>
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="32"
@@ -164,7 +173,7 @@
         alt="Expo"
       />
       <br /><strong style="font-size: 12px;">Expo</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
@@ -183,21 +192,22 @@
       />
       <br/><strong style="font-size: 12px;">Bootstrap</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
-        width="32"
-        height="32"
-        alt=".NET"
-      />
-      <br /><strong style="font-size: 12px;">.NET</strong>
-    </td>
+
   </tr>
 </table>
 
 <h3 style="color: #2a9d8f">Databases:</h3>
 <table>
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+        width="32"
+        height="32"
+        alt="PostgreSQL"
+      />
+      <br /><strong style="font-size: 12px;">PostgreSQL</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -225,30 +235,12 @@
       />
       <br /><strong style="font-size: 12px;">MsSQL</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
-        width="32"
-        height="32"
-        alt="PostgreSQL"
-      />
-      <br /><strong style="font-size: 12px;">PostgreSQL</strong>
-    </td>
   </tr>
 </table>
 
 <h3 style="color: #2a9d8f">Tools & Technologies:</h3>
 <table>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
-        width="32"
-        height="32"
-        alt="Figma"
-      />
-      <br /><strong style="font-size: 12px;">Figma</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -302,6 +294,15 @@
         alt="Visual Studio"
       />
       <br /><strong style="font-size: 12px;">Visual Studio</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+        width="32"
+        height="32"
+        alt="Figma"
+      />
+      <br /><strong style="font-size: 12px;">Figma</strong>
     </td>
   </tr>
 </table>
