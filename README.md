@@ -351,6 +351,14 @@
     <tbody>
       <tr>
         <th scope="row">
+          <a href="https://github.com/ersinisgor/English_Vocabulary_Trainer" target="_blank">English Vocabulary Trainer</a>
+        </th>
+        <td>Backend</td>
+        <td>Nest.js, TypeScript, PostgreSQL, Prisma ORM, JWT, Bcrypt, Swagger, Jest </td>
+        <td align="center">-</td>
+      </tr>
+      <tr>
+        <th scope="row">
           <a href="https://github.com/ersinisgor/CloudFileStorage_Microservices" target="_blank">.NET Cloud File Storage Microservices</a>
         </th>
         <td>Backend</td>
