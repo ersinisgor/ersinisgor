@@ -351,6 +351,16 @@
     <tbody>
       <tr>
         <th scope="row">
+          <a href="hhttps://github.com/ersinisgor/AI-Gift-Advisor" target="_blank">AI Gift Advisor</a>
+        </th>
+        <td>Full Stack</td>
+        <td>Node.js, Express.js, OpenAI, React, Vite, Marked, DOMPurify </td>
+        <td align="center">
+          <a href="https://ai-gift-advisor-vi1i.onrender.com/" target="_blank">Live</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">
           <a href="https://github.com/ersinisgor/English_Vocabulary_Trainer" target="_blank">English Vocabulary Trainer</a>
         </th>
         <td>Backend</td>
