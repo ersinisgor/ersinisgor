@@ -351,7 +351,7 @@
     <tbody>
       <tr>
         <th scope="row">
-          <a href="hhttps://github.com/ersinisgor/AI-Gift-Advisor" target="_blank">AI Gift Advisor</a>
+          <a href="https://github.com/ersinisgor/AI-Gift-Advisor" target="_blank">AI Gift Advisor</a>
         </th>
         <td>Full Stack</td>
         <td>Node.js, Express.js, OpenAI, React, Vite, Marked, DOMPurify </td>
