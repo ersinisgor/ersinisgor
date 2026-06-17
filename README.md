@@ -351,6 +351,16 @@
     <tbody>
       <tr>
         <th scope="row">
+          <a href="https://github.com/ersinisgor/AI-Knowledge-Base-Assistant" target="_blank">AI Knowledge Base Assistant</a>
+        </th>
+        <td>Full Stack</td>
+        <td>TypeScript, NestJS, Next.js, OpenAI GPT-4o-mini, Supabase, pgvector, LangChain, Tailwind CSS, shadcn/ui</td>
+        <td align="center">
+          <a href="https://ai-knowledge-base-frontend.vercel.app/" target="_blank">Live</a>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">
           <a href="https://github.com/ersinisgor/AI-Gift-Advisor" target="_blank">AI Gift Advisor</a>
         </th>
         <td>Full Stack</td>
