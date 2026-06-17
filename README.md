@@ -14,7 +14,7 @@
 <!-- - 💻 I am an alumni of the **[Siliconmade Academy](https://www.siliconmadeacademy.com/)** <br> -->
 
 - 💻 I am an alumni of the **<a href="https://www.siliconmadeacademy.com/" target="_blank" rel="noopener noreferrer" style="color: white; text-decoration: none;">Siliconmade Academy</a>** <br>
-- 📌 I’m currently learning **Nest.js**
+- 📌 I’m currently learning **RAG & AI Engineering**
 <!-- - 💪 Short-term goals: Learning **Nest** <br> -->
 - 🤝🏼 I'm open to collaborating on interesting Backend or Full-Stack projects <br>
 - 📫 How to reach me: [ersinisgor@hotmail.com](ersinisgor@hotmail.com)<br>
