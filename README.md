@@ -373,8 +373,8 @@
         <th scope="row">
           <a href="https://github.com/ersinisgor/English_Vocabulary_Trainer" target="_blank">English Vocabulary Trainer</a>
         </th>
-        <td>Backend</td>
-        <td>Nest.js, TypeScript, PostgreSQL, Prisma ORM, JWT, Bcrypt, Swagger, Jest </td>
+        <td>Full Stack</td>
+        <td>NestJS, Next.js, TypeScript, PostgreSQL, Prisma ORM, JWT, Bcrypt, Tailwind CSS, Zustand, Axios, React Hook Form, Zod, Swagger, Jest, Multer, SheetJS</td>
         <td align="center">-</td>
       </tr>
       <tr>
