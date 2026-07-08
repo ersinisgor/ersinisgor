@@ -96,7 +96,7 @@
       />
       <br/><strong style="font-size: 12px;">CSS3</strong>
     </td> -->
-    <!-- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="32"
@@ -104,7 +104,7 @@
         alt="Python"
       />
       <br /><strong style="font-size: 12px;">Python</strong>
-    </td> -->
+    </td>
   </tr>
 </table>
 
@@ -316,10 +316,10 @@
   </summary>
 
 <div align=center>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=ersinisgor&theme=algolia&hide_border=true" title="Open in new tab">
-    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ersinisgor&theme=algolia&hide_border=true" alt="zumrudu-anka" />
+  <a href="https://streak-stats.demolab.com/?user=ersinisgor&theme=algolia&hide_border=true" title="Open in new tab">
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ersinisgor&theme=algolia&hide_border=true" alt="zumrudu-anka" />
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=ersinisgor&theme=algolia&hide_border=true" title="Open in new tab">
+  <a href="https://streak-stats.demolab.com/?user=ersinisgor&theme=algolia&hide_border=true" title="Open in new tab">
     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ersinisgor&show_icons=true&theme=algolia&hide_border=true" />
   </a>
 </div>
@@ -349,6 +349,14 @@
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <th scope="row">
+          <a href="https://github.com/ersinisgor/job-apply-agent" target="_blank">Job Apply Agent</a>
+        </th>
+        <td>AI Agent</td>
+        <td>Python, Anthropic Claude, Playwright, FastAPI, Google Drive API, OAuth, openpyxl, python-docx, BeautifulSoup, Chrome Extension (MV3)</td>
+        <td align="center">-</td>
+      </tr>
       <tr>
         <th scope="row">
           <a href="https://github.com/ersinisgor/AI-Knowledge-Base-Assistant" target="_blank">AI Knowledge Base Assistant</a>
