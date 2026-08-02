@@ -228,6 +228,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
+        width="32"
+        height="32"
+        alt="Supabase"
+      />
+      <br /><strong style="font-size: 12px;">Supabase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
         width="32"
         height="32"
@@ -303,6 +312,38 @@
         alt="Figma"
       />
       <br /><strong style="font-size: 12px;">Figma</strong>
+    </td>
+  </tr>
+</table>
+
+<h3 style="color: #2a9d8f">AI & LLM:</h3>
+<table>
+  <tr>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">OpenAI API</strong>
+    </td>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">Claude API</strong>
+    </td>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">Claude Code</strong>
+    </td>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">LangChain</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">RAG</strong>
+    </td>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">Embeddings</strong>
+    </td>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">Vector Search</strong>
+    </td>
+    <td align="center" height="54" width="120">
+      <strong style="font-size: 12px;">pgvector</strong>
     </td>
   </tr>
 </table>
