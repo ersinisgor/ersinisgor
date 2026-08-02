@@ -495,7 +495,9 @@
         </th>
         <td>Full Stack</td>
         <td>C#, MsSQL, RapidAPI, Swagger, AutoMapper, .NET MVC, JWT, Bootstrap</td>
-        <td align="center">-</td>
+        <td align="center">
+          <a href="https://hotel-demo-453942543225.europe-west1.run.app/" target="_blank">Live</a>
+        </td>
       </tr>
       <tr>
         <th scope="row">
